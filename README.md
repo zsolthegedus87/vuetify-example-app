@@ -1,4 +1,5 @@
 # vuetify-example-app
+Vuetify example app with some example and Vuex navigation
 
 ## Project setup
 ```
